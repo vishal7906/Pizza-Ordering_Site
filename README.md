@@ -21,6 +21,10 @@ Tech Stack -
 
 In this repository i have not added my backend required for storing pizza data , you can also check out this project on coder's gyan youtube channel where you can  find the backend and clone it. 
 
+![Screenshot 2024-06-23 121938](https://github.com/vishal7906/Pizza-Ordering_Site/assets/138103478/f2eb81d5-9441-4fbf-aee9-318b1c6ad888)
+![Screenshot 2024-06-23 122039](https://github.com/vishal7906/Pizza-Ordering_Site/assets/138103478/228af062-c73f-4288-ae82-5799c3cf152d)
+![Screenshot 2024-06-23 122142](https://github.com/vishal7906/Pizza-Ordering_Site/assets/138103478/4fdab413-f47c-436f-a5b1-64582db97085)
+
 Contact
 For any inquiries or feedback, please contact:
 
