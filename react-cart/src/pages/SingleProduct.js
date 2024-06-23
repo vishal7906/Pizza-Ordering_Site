@@ -18,7 +18,7 @@ const SingleProduct = () => {
         <div className="container mx-auto mt-12">
             <Link to={"/"}><button className="mb-12 font-bold" >Back</button></Link>
             <div className="flex">
-                <img src={ product.image } alt="pizza" />
+                <img src={ product.image } height={300} width={300} alt="pizza" />
                 <div className="ml-16">
                     <h1 className="text-xl font-bold">{ product.name }</h1>
                     <div className="text-md">{ product.size }</div>
